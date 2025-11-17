@@ -2,7 +2,7 @@ name: PHP Composer
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "Abdur-Rouf20-patch-1" ]
   pull_request:
     branches: [ "master" ]
 
